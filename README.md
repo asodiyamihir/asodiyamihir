@@ -1,16 +1,41 @@
 ## Hi there 👋
 
-<!--
-**asodiyamihir/asodiyamihir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student interested in software development and building practical applications.
 
-Here are some ideas to get you started:
+🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Python, Java, JavaScript
+- Backend: Django, Flask, REST APIs
+- Frontend: HTML, CSS, React
+- Databases: MySQL, MongoDB
+- Tools: Git, GitHub, VS Code
+
+🚀 Projects
+
+NoteNest — A Collaborative Knowledge Workspace
+
+A Django + Full Stack project focused on collaborative knowledge management and real-time collaboration for students.
+
+Online Grocery Shop
+
+A Blinkit-inspired online grocery shopping application developed using Python and Flask.
+
+QUORIDOR
+
+A Python-based implementation of the strategic board game QUORIDOR.
+
+RTO Management System
+
+A Java-based management system developed using Java, DBMS, and Data Structures.
+
+🌱 Currently Learning
+
+- Django & REST API development
+- Full Stack Development
+- Machine Learning with Python
+- Git & GitHub
+
+📫 Connect With Me
+
+- LinkedIn: Coming soon
+- GitHub: "@asodiyamihir" (https://github.com/asodiyamihir)
