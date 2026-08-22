@@ -20,10 +20,6 @@ Online Grocery Shop
 
 A Blinkit-inspired online grocery shopping application developed using Python and Flask.
 
-QUORIDOR
-
-A Python-based implementation of the strategic board game QUORIDOR.
-
 RTO Management System
 
 A Java-based management system developed using Java, DBMS, and Data Structures.
