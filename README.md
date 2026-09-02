@@ -1,21 +1,29 @@
 # Hi there 👋
 
-I'm a Computer Engineering student interested in software development and building practical applications.
+I'm a **Computer Engineering student** student interested in software development and building practical applications.
 
 ## Technologies
+**Languages**  
+`Python` `Java` `JavaScript`
 
-- Languages: Python, Java, JavaScript
-- Backend: Django, Flask, REST APIs
-- Frontend: HTML, CSS, React
-- Databases: MySQL, MongoDB
-- Tools: Git, GitHub, VS Code
+**Backend**  
+`Django` `Flask` `REST APIs`
+
+**Frontend**  
+`HTML` `CSS` `React`
+
+**Databases**  
+`MySQL` `MongoDB`
+
+**Tools**  
+`Git` `GitHub` `VS Code`
 
 ## Projects
 
-### NoteNest — A Collaborative Knowledge Workspace
+**NoteNest — A Collaborative Knowledge Workspace**
 A Django + Full Stack project focused on collaborative knowledge management and real-time collaboration for students.
 
-### Online Grocery Shop
+**Online Grocery Shop**
 A Blinkit-inspired online grocery shopping application developed using Python, Flask, MySQL and web technologies.
 
 ## Currently Learning
