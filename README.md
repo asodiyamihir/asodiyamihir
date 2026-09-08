@@ -18,7 +18,7 @@ I'm a **Computer Engineering student** student interested in software developmen
 **Tools**  
 `Git` `GitHub` `VS Code`
 
-## Projects
+## Projects:
 
 **NoteNest — A Collaborative Knowledge Workspace**
 A Django + Full Stack project focused on collaborative knowledge management and real-time collaboration for students.
